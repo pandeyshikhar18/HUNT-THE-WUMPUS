@@ -1,0 +1,1 @@
+"""Recalculate grid positions and screen center based on current window size."""
